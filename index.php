@@ -33,7 +33,7 @@
                 <img src="https://source.unsplash.com/random/1920x768/?kid,nursery" style="width:100%">
                 <div class="text">
                     <h1> Accueil du lundi au vendredi de 7h00 à 19h00 </h1>
-                    <h2> Flexibilité possible si nécessaire</h2>
+                    <h2> Flexibilité possible si besoin</h2>
                     <h3> La crèches Pomme d'api est composées d’une équipe pluridisciplinaire de professionnels qualifiés. </h3>
                 </div>
             </div>
